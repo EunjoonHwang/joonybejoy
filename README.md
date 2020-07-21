@@ -1,6 +1,6 @@
 ### Hi there 👋
-# So happy to see Arctic Code Vault Contributor badge appered on the profile. The code contributed is from our pair programming at the bootcamp I went to. 
-# So great to see they grow as a software engineer as a returnee who are so fascinated to learn new things everyday. 
+ So happy to see Arctic Code Vault Contributor badge appered on the profile. The code contributed is from our pair programming at the bootcamp I went to. 
+ So great to see they grow as a software engineer as a returnee who are so fascinated to learn new things everyday. 
 
 <!--
 **joonybejoy/joonybejoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
